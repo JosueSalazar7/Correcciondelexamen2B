@@ -1,6 +1,9 @@
 # Correcciondelexamen2B
 
 CODIGO DE LA BASE DE DATOS UTILIZADA
+
+
+
 CREATE database VEHICULOS
 USE VEHICULOS
 
