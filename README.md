@@ -1,5 +1,17 @@
 # Correcciondelexamen2B
 
+VIDEO EXPLICATIVO
+
+
+
+https://user-images.githubusercontent.com/117753844/221067787-19d7e55d-a5f3-4e9e-bd09-ae23b5a4424d.mp4
+
+
+
+
+
+
+
 CODIGO DE LA BASE DE DATOS UTILIZADA
 
 
@@ -44,3 +56,6 @@ NOM_COLOR VARCHAR(15) PRIMARY KEY NOT NULL
 /*Ingresamos los datos en la tabla*/
 
 INSERT INTO COLORES VALUES("AMARILLO"),("ROJO"),("VERDE"),("NEGRO"),("AZUL"),("BLANCO")
+
+
+
